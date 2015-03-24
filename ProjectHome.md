@@ -1,0 +1,3 @@
+Eclipse doesn't seem to show svn marks on files very well.  You can have marks for edited, added or deleted content in Eclipse.  You can also get the entire history (blame). I'm sure that NB shows the markers on the files after save and until commit.
+
+Yes, Netbeans with its SVN plugin is much better.  The add/delete/change marks remain in the source files after saving, up until the code is committed.
